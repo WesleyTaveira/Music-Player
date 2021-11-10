@@ -19,4 +19,4 @@ a lista estiver vazia, apresente a mensagem: "Toque! Toque, Dijê!".
 undo: [*] desfaz os efeitos de uma instrução add, del, next ou play. Isoladamente, desfaz o efeito da última instrução. Havendo o
 argumento opcional *, desfaz o efeito de todas as instruções dadas até aquele ponto.
 
-fight: interrompe o programa para iniciar o ataque ao Império.
+fight: interrompe o programa.
